@@ -60,6 +60,7 @@ markers:
   - {type: 'tls:seg', offset: 81, content: '', id: KR2p0068_tls_001-3a.7}
   - {type: punctuation, offset: 84, content: ',', id: KR2p0068_tls_001-bkkpn29}
   - {type: 'tls:seg', offset: 84, content: '', id: KR2p0068_tls_001-3a.8}
+  - {type: substitution, offset: 86, original: 阶, replacement: 階, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16418}}
   - {type: punctuation, offset: 87, content: ',', id: KR2p0068_tls_001-bkkpn30}
   - {type: 'tls:seg', offset: 87, content: '', id: KR2p0068_tls_001-3a.9}
   - {type: xml-element, offset: 91, content: '', id: KR2p0068_tls_001-bkkxmlele6, name: p, role: close, attrs: {source: 'SHANGBO.WUWANGJIANZUO 7.39.2 (STRIPS 1-2) MACHENGYUAN 7: 151-152 TR. MARCO CABOARA'}}
@@ -95,6 +96,7 @@ markers:
   - {type: 'tls:seg', offset: 138, content: '', id: KR2p0068_tls_001-4a.11}
   - {type: punctuation, offset: 143, content: ',', id: KR2p0068_tls_001-bkkpn48}
   - {type: 'tls:seg', offset: 143, content: '', id: KR2p0068_tls_001-4a.12}
+  - {type: substitution, offset: 147, original: 兇, replacement: 凶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16214}}
   - {type: xml-element, offset: 148, content: '', id: KR2p0068_tls_001-bkkxmlele8, name: p, role: close, attrs: {source: 'SHANGBO.WUWANGJIANZUO 7.39.3 (STRIPS 2-4) MACHENGYUAN 7: 152-154 TR. MARCO CABOARA'}}
   - {type: xml-element, offset: 148, content: '', id: KR2p0068_tls_001-bkkxmlele9, name: p, role: open, attrs: {source: 'SHANGBO.WUWANGJIANZUO 7.39.4 (STRIPS 4-5) MACHENGYUAN 7: 154-155 TR. MARCO CABOARA'}}
   - {type: page-break, offset: 148, content: '', id: KR2p0068_tls_001-5a}
@@ -308,6 +310,7 @@ markers:
   - {type: 'tls:seg', offset: 453, content: '', id: KR2p0068_tls_001-13a.9}
   - {type: punctuation, offset: 458, content: ',', id: KR2p0068_tls_001-bkkpn162}
   - {type: 'tls:seg', offset: 458, content: '', id: KR2p0068_tls_001-13a.10}
+  - {type: substitution, offset: 461, original: 兇, replacement: 凶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16214}}
   - {type: xml-element, offset: 462, content: '', id: KR2p0068_tls_001-bkkxmlele26, name: p, role: close, attrs: {source: 'SHANGBO.WUWANGJIANZUO 7.39.13 (STRIPS 12-14) MACHENGYUAN 7: 162-164 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:9230b7533cec190968ca41e2f900a73c1053c3396674271237737ee309416beb
+hash: sha256:ceb6543cc4569ff3a0c57fe10531cf2a9248b0ca262530d2f509546ac56b619f
